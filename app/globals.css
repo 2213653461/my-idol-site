@@ -1,0 +1,14 @@
+@import "tailwindcss";
+body {
+  /* 这里换成你的图片文件名，注意前面的斜杠 / 不能少 */
+  background-image: url('bg.jpg'); 
+  
+  /* 让图片铺满整个屏幕，不要重复 */
+  background-size: cover;
+  
+  /* 让图片居中显示 */
+  background-position: center;
+  
+  /* 关键特效：滚动页面时，背景图固定不动（很有高级感） */
+  background-attachment: fixed;
+}
