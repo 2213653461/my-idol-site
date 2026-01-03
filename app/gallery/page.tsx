@@ -12,11 +12,11 @@ const ALBUMS = [
     cover: "/daily/1.jpg", // 封面图
     count: "6张", 
     photos: [
-      "/game/1.jpg",
+      "/daily/1.jpg",
       "/daily/2.jpg",
       "/daily/3.jpg",
-      "/daily/4.jpg",
-      "/daily/5.jpg",
+      "/daily/4.PNG",
+      "/daily/5.PNG",
       "/daily/6.jpg",
     ]
   },

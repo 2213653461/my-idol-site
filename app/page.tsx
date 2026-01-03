@@ -39,7 +39,7 @@ export default function Home() {
           <div className="relative w-48 h-48 md:w-56 md:h-56 rounded-full border-4 border-pink-500/30 p-2 shadow-2xl shadow-pink-500/20 shrink-0">
             <div className="relative w-full h-full rounded-full overflow-hidden">
               <Image 
-                src="/hero.jpg" 
+                src="/IMG_2699.PNG" 
                 alt="Avatar" 
                 fill 
                 className="object-cover hover:scale-110 transition duration-700"
@@ -57,7 +57,6 @@ export default function Home() {
             <p className="text-lg text-gray-300 max-w-md leading-relaxed">
               这里是关于她的一切。<br/>
               “追逐光，成为光。”<br/>
-              ✨ 新生代偶像 | 演员 | 歌手
             </p>
           </div>
 {/* 3. 社交媒体按钮栏 (迷你胶囊 - 2列左对齐布局) */}

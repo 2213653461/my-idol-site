@@ -11,7 +11,6 @@ const GAME_DATABASE: Record<string, any> = {
   // 游戏 1: 侦探
   "detective": {
     title: "美女，  请别影响我学习",
-    desc: "如果你必须在真相和挚爱之间做出选择，你会怎么做？在这部互动影像作品中，你将扮演一名意外卷入案件的私家侦探...",
     // 你的 B站 视频 iframe 链接 (去B站复制嵌入代码)
     videoUrl: "//player.bilibili.com/player.html?bvid=BV1Av4GMDE3W&high_quality=1", 
     // 游戏截图/剧照
@@ -25,7 +24,6 @@ const GAME_DATABASE: Record<string, any> = {
   // 游戏 2: 恋爱
   "love-story": {
     title: "美女，请别影响我成仙",
-    desc: "原本是契约恋爱，却假戏真做？全动态真人恋爱模拟，多重结局等你解锁。",
     videoUrl: "//player.bilibili.com/player.html?bvid=BV13BB4BdEHS&high_quality=1",
     screenshots: [
         "/game/love1.jpg", 
