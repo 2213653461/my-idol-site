@@ -21,7 +21,7 @@ export default function Home() {
            <Link href="/gallery" className="hover:text-pink-400 transition">壁纸</Link>
            <Link href="/clips" className="hover:text-blue-400 transition">切片</Link>
            <Link href="/music" className="hover:text-green-400 transition">音乐</Link>
-           <Link href="/movies" className="hover:text-yellow-400 transition">影视</Link>
+           <Link href="/works" className="hover:text-yellow-400 transition">影视</Link>
             <Link href="/offline" className="hover:text-yellow-400 transition">一日店长</Link>
              <Link href="/game" className="hover:text-yellow-400 transition">影游</Link>
          </div>

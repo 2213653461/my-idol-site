@@ -15,6 +15,42 @@ const PLAYLIST = [
     // 👇 不同的歌可以用不同的封面
     cover: "/songs/3.webp",
   },
+  {
+    title: "爱情嘟啦嘟",
+    file: "/songs/3.mp3",
+    // 👇 不同的歌可以用不同的封面
+    cover: "/songs/4.webp",
+  },
+  {
+    title: "爱情嘟啦嘟",
+    file: "/songs/4.mp3",
+    // 👇 不同的歌可以用不同的封面
+    cover: "/songs/5.webp",
+  },
+  {
+    title: "耿耿于怀",
+    file: "/songs/5.mp3",
+    // 👇 不同的歌可以用不同的封面
+    cover: "/songs/6.webp",
+  },
+  {
+    title: "淋雨一直走",
+    file: "/songs/6.mp3",
+    // 👇 不同的歌可以用不同的封面
+    cover: "/songs/6.webp",
+  },
+  {
+    title: "With the music",
+    file: "/songs/7.mp3",
+    // 👇 不同的歌可以用不同的封面
+    cover: "/songs/7.webp",
+  },
+    {
+    title: "最后一个夏天",
+    file: "/songs/8.mp3",
+    // 👇 不同的可以用不同的封面
+    cover: "/songs/6.webp",
+  },
   // 如果你还没准备好图片，可以用一个临时的占位图
   // cover: "/placeholder.jpg", 
 ];
