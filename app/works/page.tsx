@@ -79,14 +79,8 @@ export default function Movies() {
                       18岁温棠月暗恋邻居哥哥季让，却因自卑将爱意深藏。一次意外，她与叛逆少年季礼相遇，被他所救却心生恐惧。七年纠葛中季礼表面捉弄实则守护，温棠月逐渐看清真从对季让的憧憬转向对季礼的心动。然而心.误会与伤害让两人错过七年，直至时尚晚宴重逢，他身边有未婚妻，她身后有绯闻，彼此仍在误解与试探中挣扎徘徊，
                     </p>
 
-                    <a 
-                      href="https://www.iqiyi.com/search/系统逼我说爱你.html" 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="inline-block px-6 py-2 bg-yellow-500/20 text-yellow-400 rounded-full border border-yellow-500/50 hover:bg-yellow-500 hover:text-black transition font-bold"
-                    >
-                        去红果短剧观看 ▶
-                    </a>
+
+
                     
                     {/* 如果这部剧也有链接，可以复制上面的 <a> 标签改一下 href 即可 */}
                   </div>

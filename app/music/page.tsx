@@ -71,7 +71,7 @@ export default function Music() {
         {/* 标题 */}
         <div className="flex items-center justify-center gap-3 mb-10">
             <span className="text-4xl">🎵</span>
-            <h1 className="text-4xl font-bold text-green-400">音乐作品 Music</h1>
+            <h1 className="text-4xl font-bold text-green-400">音乐作品</h1>
         </div>
           
         {/* 播放列表容器 */}

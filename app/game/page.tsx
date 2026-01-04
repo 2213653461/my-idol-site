@@ -36,7 +36,7 @@ export default function GameList() {
         {/* --- 2. 标题区 --- */}
         <div className="flex items-center justify-center gap-3 mb-12">
             <span className="text-4xl">🎮</span>
-            <h1 className="text-4xl font-bold text-cyan-400">互动影游 Interactive</h1>
+            <h1 className="text-4xl font-bold text-cyan-400">互动影游</h1>
         </div>
 
         {/* --- 3. 游戏封面网格 --- */}

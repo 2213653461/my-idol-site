@@ -68,7 +68,7 @@ export default function Gallery() {
 
         {/* 标题区 */}
         <h1 className="text-4xl font-bold mb-8 text-center border-b border-white/20 pb-4">
-          {activeAlbumId === null ? "✨ 精选图集 Collections" : `📂 ${currentAlbum?.title}`}
+          {activeAlbumId === null ? "✨ 精选图集" : `📂 ${currentAlbum?.title}`}
         </h1>
 
         {/* --- 视图 1: 相册列表 (默认显示) --- */}
