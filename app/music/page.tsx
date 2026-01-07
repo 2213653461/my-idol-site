@@ -22,7 +22,7 @@ const PLAYLIST = [
     cover: "/songs/4.webp",
   },
   {
-    title: "爱情嘟啦嘟",
+    title: "我就是喜欢你",
     file: "/songs/4.mp3",
     // 👇 不同的歌可以用不同的封面
     cover: "/songs/5.webp",
