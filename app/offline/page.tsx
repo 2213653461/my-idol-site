@@ -8,7 +8,7 @@ const EVENTS = [
   {
     id: 1,
     date: "2025.07.27",
-    title: "一日店长·索拼",
+    title: "一日店长·素拼",
     location: "郑州 · 正弘城六楼",
     description: "感谢来到现场的每一位朋友！那一天的商场因为你们而闪闪发光，辛苦大家排队啦！",
     // 👇 确保 public/offline/ 文件夹里有 2.jpg
