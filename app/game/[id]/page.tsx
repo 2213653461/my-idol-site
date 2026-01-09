@@ -22,6 +22,14 @@ const GAME_DATABASE: Record<string, any> = {
     description: "修仙，还是羞仙？你，林凡，千年难遇的纯阳灵根拥有者，鹤幻宗唯一的男修，本该是修仙界的天选之子，直到你发现，真正的“渡劫”不是雷罚，而是和宗门小姐姐们的情有千千劫。 既要突破境界、御剑成仙；又要守护纯阳、把根留住！",
     tags: ["古风", "修仙", "高甜"],
     screenshots: ["/game/IMG_2745.jpg", "/game/IMG_2746.jpg", "/game/IMG_2747.jpg", "/game/IMG_2748.jpg", "/game/IMG_2750.jpg", "/game/IMG_2751.jpg", "/game/IMG_2752.jpg"]
+  },
+    "wandan2": {
+    title: "完蛋！我被美女包围了",
+    subtitle: "古代 · 随心而动，专注情缘",
+    cover: "/game/4.jpg", 
+    description: "不止于延续，更要大胆创新！《完蛋2》将舞台搬至古代，在唯美的古风背景下，融入了大量轻松诙谐的喜剧元素，让你在紧张冒险之余开怀一笑。除此之外，精心编织的权谋与悬疑主线正式登场！表面风花雪月，暗地却危机四伏，你身边的美女们，似乎也各自隐藏着不为人知的秘密...",
+    tags: ["古代", "情感线", "悬疑线", "天马行空"],
+    screenshots: [ "/game/w1.jpg", "/game/w2.jpg", "/game/w3.jpg", "/game/w4.jpg","/game/w5.jpg", "/game/w6.jpg", "/game/w7.jpg", "/game/w8.jpg", "/game/w9.jpg","/game/w10.jpg", "/game/w11.jpg", "/game/w12.jpg", "/game/w13.jpg", "/game/w14.jpg","/game/w15.jpg", "/game/w16.jpg", "/game/w17.jpg", "/game/w18.jpg", "/game/w19.jpg", "/game/w20.jpg"]
   }
 };
 
