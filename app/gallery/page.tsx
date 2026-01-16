@@ -6,29 +6,57 @@ import Image from 'next/image';
 
 // --- 这里配置你的相册数据 ---
 const ALBUMS = [
-  {
+    {
     id: 1,
-    title: "日常合集",
-    cover: "/daily/1.jpg", // 封面图
-    count: "6张", 
+    title: "短发",
+    cover: "/gallery/short/1.jpg", // 封面图
+    count: "20张", 
     photos: [
-      "/daily/1.jpg",
-      "/daily/2.jpg",
-      "/daily/3.jpg",
-      "/daily/4.PNG",
-      "/daily/5.PNG",
-      "/daily/6.jpg",
+      "/gallery/short/1.jpg",
+      "/gallery/short/2.jpg",
+      "/gallery/short/3.jpg",
+      "/gallery/short/4.jpg",
+      "/gallery/short/5.jpg",
+      "/gallery/short/6.jpg",
+      "/gallery/short/7.jpg",
+      "/gallery/short/8.jpg",
+      "/gallery/short/9.jpg",
+      "/gallery/short/10.jpg",
+      "/gallery/short/11.jpg",
+      "/gallery/short/12.jpg",
+      "/gallery/short/13.jpg",
+      "/gallery/short/14.jpg",
+      "/gallery/short/15.jpg",
+      "/gallery/short/16.jpg",
+      "/gallery/short/17.jpg",
+      "/gallery/short/18.jpg",
+      "/gallery/short/19.jpg",
+      "/gallery/short/20.jpg",
     ]
   },
   {
     id: 2,
+    title: "日常合集",
+    cover: "/gallery/daily/1.jpg", // 封面图
+    count: "6张", 
+    photos: [
+      "/gallery/daily/1.jpg",
+      "/gallery/daily/2.jpg",
+      "/gallery/daily/3.jpg",
+      "/gallery/daily/4.PNG",
+      "/gallery/daily/5.PNG",
+      "/gallery/daily/6.jpg",
+    ]
+  },
+  {
+    id: 3,
     title: "活动现场返图",
-    cover: "/live/1.jpg", // 封面图
+    cover: "/gallery/live/1.jpg", // 封面图
     count: "3张",
     photos: [
-      "/live/1.jpg",
-      "/live/2.jpg",
-      "/live/3.jpg",
+      "/gallery/live/1.jpg",
+      "/gallery/live/2.jpg",
+      "/gallery/live/3.jpg",
     ]
   },
 ];
